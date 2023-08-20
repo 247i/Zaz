@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zaz 1.0.0\n"
+"Report-Msgid-Bugs-To: remigiusz.dybka@gmail.com\n"
+"POT-Creation-Date: 2010-08-23 21:36+0100\n"
+"PO-Revision-Date: 2023-08-21 00:06+0530\n"
+"Last-Translator: தமிழ்நேரக்குழு<anishprabu.t@gmail.com>.Language-Team: "
+"தமிழ்நேரக்குழு<anishprabu.t@gmail.com>\n"
+"Language-Team: \n"
+"Language: ta_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "Andrea Musuruane"
+msgstr "அன்டிரியா முசுருஅனே"
+
+msgid "Anıl Özbek"
+msgstr "அனில் ஓச்பேக்"
+
+msgid "Apply"
+msgstr "இடு"
+
+msgid "Back"
+msgstr "பின்"
+
+msgid "Back to main menu"
+msgstr "பிரதான மெனுவுக்குத் திரும்பு"
+
+msgid "Bacteria"
+msgstr "பாக்டீரியா"
+
+msgid "Bendlantiz"
+msgstr "பெண்ட்லாண்டிஸ்"
+
+msgid "Best times"
+msgstr "சிறந்த நேரம்"
+
+msgid "Butterfly"
+msgstr "பட்டாம்பூச்சி"
+
+msgid "Cancel"
+msgstr "ரத்து"
+
+msgid "Colour hints"
+msgstr "வண்ண குறிப்புகள்"
+
+msgid "Congratulations !!! You just pwned"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Current score: %06d"
+msgstr "தற்போதய புள்ளிகள்: %06d"
+
+msgid "Delete"
+msgstr "நீக்கு"
+
+msgid "Disable speed-up"
+msgstr ""
+
+msgid "Double D"
+msgstr ""
+
+msgid "Dámaso Domínguez (AmiSpaTra)"
+msgstr ""
+
+msgid "Easy"
+msgstr ""
+
+msgid "End game"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Export video"
+msgstr ""
+
+msgid "Exporting video [press ESC to cancel]"
+msgstr ""
+
+msgid "Extra Life !"
+msgstr ""
+
+msgid "Extra points for remaining lives : "
+msgstr "மீதமுள்ள வாழ்க்கைக்கான கூடுதல் புள்ளிகள்: "
+
+msgid "Frederik Schwarzer"
+msgstr ""
+
+msgid "French:"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Gabor Kmetyko"
+msgstr ""
+
+msgid "Game Over"
+msgstr ""
+
+msgid "Game paused"
+msgstr ""
+
+msgid "Game type:"
+msgstr ""
+
+msgid "German:"
+msgstr ""
+
+msgid "Hall of Fame"
+msgstr ""
+
+msgid "Hungarian:"
+msgstr ""
+
+msgid "Infinity"
+msgstr ""
+
+msgid "Irena Klon"
+msgstr ""
+
+msgid "Italian:"
+msgstr ""
+
+msgid "Joker"
+msgstr ""
+
+msgid "Kamil Krzyspiak"
+msgstr ""
+
+msgid "Keyb. sensivity"
+msgstr ""
+
+msgid "Kinga Dybka"
+msgstr ""
+
+msgid "Language"
+msgstr "மொழி"
+
+msgid "Level cleared"
+msgstr "நிலை முடிந்தது"
+
+msgid "Lives left: %d"
+msgstr ""
+
+msgid "Mateusz Jakubowski"
+msgstr ""
+
+msgid "Messy Bedroom"
+msgstr ""
+
+msgid "Michael Sterrett"
+msgstr ""
+
+msgid "Midnight Queen"
+msgstr ""
+
+msgid "Mouse sensivity"
+msgstr ""
+
+msgid "Music volume"
+msgstr "இசை ஒலியளவு"
+
+msgid "New profile"
+msgstr "புதிய அடையாளம்"
+
+msgid "Next level"
+msgstr "அடுத்த நிலை"
+
+msgid "Nightmare"
+msgstr ""
+
+msgid "No"
+msgstr "இல்லை"
+
+msgid "Nouvel Hugues"
+msgstr ""
+
+msgid "Options"
+msgstr "விருப்பங்கள்"
+
+msgid "Over N' Under"
+msgstr ""
+
+msgid "Professional"
+msgstr ""
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Remigiusz Dybka"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Restart game"
+msgstr ""
+
+msgid "Retry level"
+msgstr ""
+
+msgid "Russian:"
+msgstr ""
+
+msgid "SFX volume"
+msgstr "ஒலி"
+
+msgid "Score: %06d"
+msgstr "புள்ளிகள்: %06d"
+
+msgid "Sequential"
+msgstr ""
+
+msgid "Shortest time for this level and a hi score!"
+msgstr "இந்த நிலைக்கான சிறிய நேரம் மற்றும் அதிக புள்ளிகள்!"
+
+msgid "Shortest time for this level!"
+msgstr "இந்த நிலைக்கான சிறிய நேரம்!"
+
+msgid "Show FPS"
+msgstr "FPS காட்டு"
+
+msgid "Snail"
+msgstr ""
+
+msgid "Sonar"
+msgstr ""
+
+msgid "Spanish:"
+msgstr "ச்பானிச்:"
+
+msgid "Specs"
+msgstr ""
+
+msgid "Spiralis"
+msgstr ""
+
+msgid "Start game"
+msgstr "விளையாட்டை துவங்கு"
+
+msgid "SuperZaz"
+msgstr ""
+
+msgid "Sure you want to end game?"
+msgstr ""
+
+msgid "Survival"
+msgstr ""
+
+msgid "The Eye"
+msgstr ""
+
+msgid "The Three Dragonz"
+msgstr ""
+
+msgid "The Tunnel"
+msgstr ""
+
+msgid "Time Bonus ! (%d sec * %d = %d)"
+msgstr "கூடுதல் நேரம் (%d நொடி * %d = %d)"
+
+msgid "Triad"
+msgstr ""
+
+msgid "Turkish:"
+msgstr "துருக்கிச்:"
+
+msgid "Twenty Three"
+msgstr ""
+
+msgid "TwinTlantis"
+msgstr "இரட்டைஅட்லான்டிச்"
+
+msgid "View replay"
+msgstr "பதிலை காண்"
+
+msgid "Yes"
+msgstr "ஆம்"
+
+msgid "You have a hi score!"
+msgstr "நீங்கள் அதிக புள்ளிகள் எடுத்துள்ளிர்கள்!"
+
+msgid "You have been warned"
+msgstr "நீங்கள் எச்சரிக்க பாடுகிறீர்கள்"
+
+msgid "Zatlantiz"
+msgstr ""
+
+msgid "Zuza"
+msgstr ""
+
+msgid "[http://www.paniq.org] Released under CC BY-SA License"
+msgstr "[http://www.paniq.org] CC BY-SA உரிமத்தின் கீழ் வெளியிடப்பட்டது"
+
+msgid "[remigiusz.dybka@gmail.com] Released under GPLv3 License"
+msgstr "[remigiusz.dybka@gmail.com] GPLv3 உரிமம் மூலம் வெளியிடப்பட்டது"
+
+msgid "additional coding:"
+msgstr "கூடுதல் நிரலாக்கம்:"
+
+msgid "additional testing:"
+msgstr "கூடுதல் சோதனை:"
+
+msgid "choose a level set"
+msgstr ""
+
+msgid "code, gfx, snd & design:"
+msgstr ""
+
+msgid "locked"
+msgstr "பூட்டபட்டது"
+
+msgid "music:"
+msgstr "இசை:"
+
+msgid "paniq - Leonard Ritter"
+msgstr "பனிக் - லீயோனார்ட் ரிட்டர்"
+
+msgid "quality assurance:"
+msgstr ""
+
+msgid "translations:"
+msgstr "மொழிபெயர்புகள்:"
+
+msgid "Николай Рощупкин"
+msgstr "Николай Рощупкин"
